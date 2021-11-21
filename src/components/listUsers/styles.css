@@ -1,0 +1,16 @@
+.container__listCard {
+	display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+}
+.card {
+  margin: 1rem;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 30rem;
+	color: #2c302d;
+}
